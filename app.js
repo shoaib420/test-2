@@ -1,5 +1,3 @@
-console.log("hello world ")
-
-var num = 33;
-var num = 55;
-
+let num = 123;
+let num2 = 44;
+console.log(num + num );
